@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rtnario
 - 👀 I’m interested in frontend development, UX, and UI
 - 🌱 I’m currently learning the basics of the above
-- 💞️ I’m looking to collaborate on no one at the moment while I'm still learning
+- 💞️ I’m looking to collaborate on nothing at the moment while I'm still learning
 - 📫 How to reach me ... through this page, I guess
 
 <!---
